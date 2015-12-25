@@ -1,0 +1,27 @@
+{
+  "name": "assets",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "MrHantLP <mrhantbk@gmail.com>"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.14.3",
+    "angular-ui-router": "~0.2.15",
+    "angularSails": "~0.12.1",
+    "bootstrap": "~3.3.6"
+  },
+  "resolutions": {
+    "angular": "~1.4.8"
+  }
+}
